@@ -1,7 +1,7 @@
 {
 "companyName": "DefaultCompany",
 "productName": "Modeler",
-"productVersion": "0.12",
+"productVersion": "0.13",
 "dataUrl": "WebGLModeler.data.unityweb",
 "wasmCodeUrl": "WebGLModeler.wasm.code.unityweb",
 "wasmFrameworkUrl": "WebGLModeler.wasm.framework.unityweb",
